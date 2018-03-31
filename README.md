@@ -7,7 +7,7 @@ react-router 는, 써드파티 라이브러리로서, 비록 공식은 아니지
 
 ```
 
-## 필수 섪치 라이브러리
+## 필수 설치 라이브러리
 
 ```
 $ yarn add react-router-dom
